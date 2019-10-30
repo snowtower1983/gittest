@@ -5,3 +5,4 @@ Git tracks the changes of files.
 Creating a new branch is quick and simple.
 test no fast forward.
 test stash.
+test stash again test.
